@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <item>
+      <title>YakType 1.2.0 (4)</title>
+      <link>https://github.com/yaktypeinput-bit/yaktypeinput-macos/releases</link>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 17 Oct 2026 12:41:13 +0000</pubDate>
+      <description sparkle:format="plain-text">YakType 1.2.0 update.</description>
+      <enclosure url="https://github.com/yaktypeinput-bit/yaktypeinput-macos/releases/download/v1.2.0-4/YakType-v1.2.0-4.dmg" sparkle:edSignature="Z64eio/ieS6zzLHIf61niKANNLX9lPbK2goxPzXdlScLutxkJXDBiv8F0GZGOkoWz0JKwkbxF2EhWeSe+dxzDQ==" length="11660294" type="application/octet-stream" />
+    </item>
+    <title>YakType Updates</title>
+    <link>https://github.com/yaktypeinput-bit/yaktypeinput-macos/releases</link>
+    <description>YakType macOS stable updates</description>
+  </channel>
+</rss>
