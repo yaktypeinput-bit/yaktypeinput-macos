@@ -1,0 +1,1 @@
+# yaktypeinput-macos
