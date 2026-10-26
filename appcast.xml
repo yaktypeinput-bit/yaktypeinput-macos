@@ -2,6 +2,18 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>YakType 1.2.1 (7)</title>
+      <link>https://github.com/yaktypeinput-bit/yaktypeinput-macos/releases</link>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 26 Oct 2026 07:06:39 +0000</pubDate>
+      <description sparkle:format="plain-text">- Refined provider and workflow setup for macOS dictation.
+- Improved recording reliability, recovery, and real-time transcription error handling.
+- Improved synchronization and local data handling.</description>
+      <enclosure url="https://github.com/yaktypeinput-bit/yaktypeinput-macos/releases/download/v1.2.1-7/YakType-v1.2.1-7.dmg" sparkle:edSignature="W5xZXfnRlNv6q5K4kqGkJVZ/Ep05vNFZbM1Su0x0bRKDJda7XmmKPMsXpkf8zO0M4NOMVaLIQWJIbkH5/ZYyCA==" length="11778620" type="application/octet-stream" />
+    </item>
+    <item>
       <title>YakType 1.2.0 (4)</title>
       <link>https://github.com/yaktypeinput-bit/yaktypeinput-macos/releases</link>
       <sparkle:version>4</sparkle:version>
